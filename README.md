@@ -1,7 +1,6 @@
 # tmcalc
-The More Complicated Attraction Layer Cake
 
-![](tmcalc.jpg)
+![The More Complicated Attraction Layer Cake](tmcalc.jpg)
 
 raw: https://kappanneo.github.io/tmcalc
 
